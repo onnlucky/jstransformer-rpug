@@ -1,0 +1,11 @@
+{
+  "name": "jstransformer-rpug",
+  "version": "0.0.1",
+  "description": "rpug support for jstransformers",
+  "main": "index.js",
+  "dependencies": {
+    "rpug": "0.1.0"
+  },
+  "author": "Onne Gorter",
+  "license": "CC0"
+}
